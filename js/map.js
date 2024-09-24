@@ -19,7 +19,7 @@ d3.csv("data/sedes-ceoe.csv", (data) => {
     const popupTitle = `<span>${data['direccion']}</span>`;
     const popupDate = isNaN(date)
         ? '<span class="grey"></span>'
-        : `<span>${date.getUTCDate()}.${date.getUTCMonth()+1}.${date.getFullYear()} - ${date.getHours()}:${date.getMinutes()}</span>`;
+        : `<span>${date.getUTCDate()}.${date.getUTCMonth()+1}.${date.getFullYear()} - ${date.toLocaleTimeString()}</span>`;
     const marker = L.marker([+data.latitud, +data.longitud], { icon });
     marker.addTo(map);
     marker.bindPopup(`${popupTitle}${popupDate}`);
