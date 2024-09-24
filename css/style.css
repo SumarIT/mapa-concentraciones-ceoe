@@ -72,7 +72,7 @@ table {
 .leaflet-popup {
   font-family: 'Inter', 'Source Sans Pro', sans-serif;
   font-weight: 700;
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   line-height: 1.2;
 }
 
@@ -105,6 +105,11 @@ table {
   margin: 0;
   padding: 0;
   display: block;
+  margin-bottom: 10px;
+}
+
+.leaflet-popup-content > *:last-child {
+  margin-bottom: 0;
 }
 
 .leaflet-popup-content .grey {
