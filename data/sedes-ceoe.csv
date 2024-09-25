@@ -13,8 +13,8 @@ fecha,direccion,latitud,longitud
 2024-09-25Y11:00:00,"Avda. de García Barbón, 104 - 1º. 36201 Pontevedra",42.23952791,-8.7078159
 2024-09-26T10:00:00,"Calle Castillo de Feria, s/n 06006 - Badajoz",38.8872213,-6.9957247
 2024-09-26T11:30:00,"Plaza de Alemania, 1 49014 Zamora",41.50768311,-5.7437039
-2024-09-26T11:30:00,"Plaza Conde de Carlet nº 3 46003, Valencia",39.47760001,-3.7273
-2024-09-26T11:30:00,"Pza. de Luis Lopez Allue, 3 - 2º. 22001 Huesca",42.13813161,-4.084184
+2024-09-26T11:30:00,"Plaza Conde de Carlet nº 3 46003, Valencia",39.4776869,-0.3754735,17
+2024-09-26T11:30:00,"Pza. de Luis Lopez Allue, 3 - 2º. 22001 Huesca",42.1381355,-0.4109987,17
 2024-09-26T11:30:00,"Calle de Diego de León, 50. 28006 Madrid",40.43440906,-3.67891285
 2024-09-26T11:30:00,"Praza das Damas, 1 32005 Ourense",42.33603421,-7.8634917
 2024-09-26T11:30:00,"Plaza de la Catedral 9 44001 Teruel",40.34317001,-1.108
@@ -33,7 +33,7 @@ fecha,direccion,latitud,longitud
 2024-09-26T11:30:00,"Plaza Santa Ana, 7 - Ávila",40.65558991,-4.69073
 2024-09-26T11:30:00,"PLAZA LOS JUZGADOS, Nº 4, 3ª PLANTA 34001 PALENCIA",42.01162041,-4.5308647
 2024-09-26T11:30:00,"Plaza de Madrid número 4, 47001 - Valladolid",41.64764641,-4.7247214
-2024-09-26T11:30:00,"Avenida José Atarés, 20 - 50018 Zaragoza",41.66261101,-8.878683
+2024-09-26T11:30:00,"Avenida José Atarés, 20 - 50018 Zaragoza",41.6631058,-0.8897802,17
 2024-09-26T11:30:00,"Plaza de San Román, 7 37001 - Salamanca",40.96245591,-5.6614368
 2024-09-26T11:30:00,"Calle Molina de Aragón, 3, 19003 Guadalajara",40.62816091,-3.16924
 2024-09-26T10:30:00,"C/ León y Castillo, 54 2ª Planta 35003 - Las Palmas de Gran Canaria",28.1120792,-15.4192141
